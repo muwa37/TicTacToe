@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe with endless field
+Tic Tac Toe with choosable field
